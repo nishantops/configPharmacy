@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "1.0.1"
 
 patient:
-  message: "Welcome to Patient related local APIs"
+  message: "Welcome to Pharmacy Connect drugs related local APIs"
   contactDetails:
     name: "Nishant Kumar - Developer"
     email: "nishant@pharmacy.com"
