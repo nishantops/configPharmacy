@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+#prefix used as drugs for all property
+drugs:
+  message: "Welcome to Drugs related local APIs"
+  contactDetails:
+    name: "Nishant Kumar - Developer"
+    email: "nish@pharmacy.com"
+  onCallSupport:
+      - (555) 555-1234
+      - (555) 523-1345

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+patient:
+  message: "Welcome to Patient related Prod APIs"
+  contactDetails:
+    name: "Pharmacy Connect - Team"
+    email: "pharmConnect@pharmacy.com"
+  onCallSupport:
+    - (555) 555-1000
+    - (555) 523-1001

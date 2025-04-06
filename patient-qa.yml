@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+patient:
+  message: "Welcome to Patient related QA APIs"
+  contactDetails:
+    name: "Harish Kumar - QA Lead"
+    email: "harish@pharmacy.com"
+  onCallSupport:
+    - (555) 555-5001
+    - (555) 523-5002
