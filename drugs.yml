@@ -3,7 +3,7 @@ build:
 
 #prefix used as drugs for all property
 drugs:
-  message: ""Welcome to Pharmacy Connect drugs related local APIs"
+  message: "Welcome to Pharmacy Connect drugs related local APIs"
   contactDetails:
     name: "Nishant Kumar - Developer"
     email: "nish@pharmacy.com"
