@@ -3,7 +3,7 @@ build:
 
 #prefix used as drugs for all property
 drugs:
-  message: "Welcome to Drugs related production APIs"
+  message: "Welcome to Pharmacy Connect drugs related production APIs"
   contactDetails:
     name: "Pharma Connect - Retail Pharmacy Company"
     email: "{cipher}56848e1b40a9ac2a91c95d909574841a8c5ae979bb75cd11be3f9372164c38b1590a4dbf318bf4c98d0788cd5c6347d0"
