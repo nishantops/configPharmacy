@@ -1,11 +1,11 @@
 build:
-  version: "1.0.2"
+  version: "1.0.3"
 
 patient:
-  message: "Welcome to Pharmacy Connect Patient Microservices prod APIs"
+  message: "Welcome to Pharmacy Connect Patient Microservices production APIs"
   contactDetails:
     name: "Pharmacy Connect - Retail Pharmacy Team"
     email: "pharmConnect@pharmacy.com"
   onCallSupport:
-    - (555) 555-1000
-    - (555) 523-1001
+    - (555) 555-1010
+    - (555) 523-1054
