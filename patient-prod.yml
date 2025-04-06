@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "1.0.1"
 
 patient:
-  message: "Welcome to Patient related Prod APIs"
+  message: "Welcome to Pharmacy Connect drugs related prod API's"
   contactDetails:
     name: "Pharmacy Connect - Team"
     email: "pharmConnect@pharmacy.com"
