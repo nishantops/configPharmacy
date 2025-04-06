@@ -1,9 +1,9 @@
 build:
-  version: "2.0"
+  version: "2.0.1"
 
 #prefix used as drugs for all property
 drugs:
-  message: "Welcome to Drugs related QA APIs"
+  message: ""Welcome to Pharmacy Connect drugs related QA API's"
   contactDetails:
     name: "harish Kumar - QA Lead"
     email: "hari@pharmacy.com"
